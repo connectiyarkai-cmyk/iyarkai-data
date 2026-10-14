@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ajwa Dates",
+    "cat": "Dates",
+    "image": [],
+    "quantity_type": "kg",
+    "stock_quantity": 25,
+    "min_quantity_price": 1200
+  },
+  {
+    "name": "Medjool Dates",
+    "cat": "Dates",
+    "image": [],
+    "quantity_type": "kg",
+    "stock_quantity": 40,
+    "min_quantity_price": 900
+  },
+  {
+    "name": "Kimia Dates",
+    "cat": "Dates",
+    "image": [],
+    "quantity_type": "kg",
+    "stock_quantity": 0,
+    "min_quantity_price": 450
+  },
+  {
+    "name": "Almonds",
+    "cat": "Nuts",
+    "image": [],
+    "quantity_type": "kg",
+    "stock_quantity": 60,
+    "min_quantity_price": 850
+  },
+  {
+    "name": "Cashews",
+    "cat": "Nuts",
+    "image": [],
+    "quantity_type": "kg",
+    "stock_quantity": 35,
+    "min_quantity_price": 950
+  },
+  {
+    "name": "Pistachios",
+    "cat": "Nuts",
+    "image": [],
+    "quantity_type": "kg",
+    "stock_quantity": 20,
+    "min_quantity_price": 1400
+  },
+  {
+    "name": "Moringa Powder",
+    "cat": "Natural Powders",
+    "image": [],
+    "quantity_type": "kg",
+    "stock_quantity": 15,
+    "min_quantity_price": 600
+  },
+  {
+    "name": "Turmeric Powder",
+    "cat": "Natural Powders",
+    "image": [],
+    "quantity_type": "kg",
+    "stock_quantity": 30,
+    "min_quantity_price": 320
+  },
+  {
+    "name": "Honey Jar (250g)",
+    "cat": "Natural Products",
+    "image": [],
+    "quantity_type": "count",
+    "stock_quantity": 50,
+    "min_quantity_price": 220
+  }
+]
