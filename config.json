@@ -1,0 +1,6 @@
+{
+  "whatsapp_numbers": [
+    "919876543210"
+  ],
+  "message_template": "Hi, I need {product_name} product with {quantity}, order address: {location}"
+}
