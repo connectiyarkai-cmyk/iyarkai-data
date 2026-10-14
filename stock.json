@@ -2,7 +2,9 @@
   {
     "name": "Ajwa Dates",
     "cat": "Dates",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/ajwa_dates.webp"
+    ],
     "quantity_type": "kg",
     "stock_quantity": 25,
     "min_quantity_price": 1200
@@ -10,7 +12,9 @@
   {
     "name": "Medjool Dates",
     "cat": "Dates",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/medjool_dates.webp"
+    ],
     "quantity_type": "kg",
     "stock_quantity": 40,
     "min_quantity_price": 900
@@ -18,7 +22,9 @@
   {
     "name": "Kimia Dates",
     "cat": "Dates",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/kimia_dates.webp"
+    ],
     "quantity_type": "kg",
     "stock_quantity": 0,
     "min_quantity_price": 450
@@ -26,7 +32,9 @@
   {
     "name": "Almonds",
     "cat": "Nuts",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/almonds.webp"
+    ],
     "quantity_type": "kg",
     "stock_quantity": 60,
     "min_quantity_price": 850
@@ -34,7 +42,9 @@
   {
     "name": "Cashews",
     "cat": "Nuts",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/cashews.webp"
+    ],
     "quantity_type": "kg",
     "stock_quantity": 35,
     "min_quantity_price": 950
@@ -42,7 +52,9 @@
   {
     "name": "Pistachios",
     "cat": "Nuts",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/pistachios.webp"
+    ],
     "quantity_type": "kg",
     "stock_quantity": 20,
     "min_quantity_price": 1400
@@ -50,7 +62,9 @@
   {
     "name": "Moringa Powder",
     "cat": "Natural Powders",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/moringa_powder.webp"
+    ],
     "quantity_type": "kg",
     "stock_quantity": 15,
     "min_quantity_price": 600
@@ -58,7 +72,9 @@
   {
     "name": "Turmeric Powder",
     "cat": "Natural Powders",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/turmeric_powder.webp"
+    ],
     "quantity_type": "kg",
     "stock_quantity": 30,
     "min_quantity_price": 320
@@ -66,7 +82,9 @@
   {
     "name": "Honey Jar (250g)",
     "cat": "Natural Products",
-    "image": [],
+    "image": [
+      "https://connectiyarkai-cmyk.github.io/iyarkai-data/honey_jar.webp"
+    ],
     "quantity_type": "count",
     "stock_quantity": 50,
     "min_quantity_price": 220
