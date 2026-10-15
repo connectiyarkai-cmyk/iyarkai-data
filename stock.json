@@ -7,7 +7,9 @@
     ],
     "quantity_type": "kg",
     "stock_quantity": 25,
-    "min_quantity_price": 1200
+    "min_quantity_price": 1200,
+    "offer": "15%",
+    "offer_expire_date": "17-10-2026"
   },
   {
     "name": "Medjool Dates",
