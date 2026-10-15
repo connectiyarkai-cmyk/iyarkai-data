@@ -1,6 +1,8 @@
 {
   "whatsapp_numbers": [
-    "919876543210"
+    "919597112476"
   ],
-  "message_template": "Hi, I need {product_name} product with {quantity}, order address: {location}"
+  "message_template": "Hi, I need {product_name} product with {quantity}, order address: {location}",
+  "cart_message_template": "Hi, I need the following products:\n{items}\nTotal: {total}\nOrder address: {location}",
+  "cart_item_template": "{index}. {product_name} - {quantity}"
 }
