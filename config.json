@@ -6,5 +6,9 @@
   "cart_message_template": "Hi, I need the following products:\n{items}\nTotal: {total}\nOrder address: {location}",
   "cart_item_template": "{index}. {product_name} - {quantity}",
   "offer_message_template": "Hi, I need {product_name} with {quantity} at {offer}% off offer price {unit_price}/{unit} (original {original_price}). Total: {total}. Order address: {location}",
-  "cart_offer_item_template": "{index}. {product_name} - {quantity} ({offer}% off, {unit_price}/{unit})"
+  "cart_offer_item_template": "{index}. {product_name} - {quantity} ({offer}% off, {unit_price}/{unit})",
+  "order_message_cod": "Hi, I want to place an order:\n{items}\nTotal: {total}\nPayment: Cash on Delivery (pay when delivered)\nDelivery address: {location}",
+  "order_message_qr": "Hi, I want to place an order:\n{items}\nTotal: {total}\nPayment: QR / UPI (I will send the payment screenshot)\nDelivery address: {location}",
+  "qr_image": "https://connectiyarkai-cmyk.github.io/iyarkai-data/payment-qr.webp",
+  "upi_id": ""
 }
