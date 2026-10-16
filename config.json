@@ -8,5 +8,6 @@
   "offer_message_template": "Hi, I need {product_name} with {quantity} at {offer}% off offer price {unit_price}/{unit} (original {original_price}). Total: {total}. Order address: {location}",
   "cart_offer_item_template": "{index}. {product_name} - {quantity} ({offer}% off, {unit_price}/{unit})",
   "qr_image": "",
-  "upi_id": ""
+  "upi_id": "",
+  "contact_name": "Iyarkai Dry Fruits and Foods"
 }
